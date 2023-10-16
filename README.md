@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @praveenyadav18
-- 👀 I’m a DevOps enthusiast and interested to learn its solutions.
+- 👀 I’m a DevOps enthusiast and interested to learn its solutions
 - 🌱 I’m currently learning basics
 - 💞️ I’m looking to collaborate on AWS, Cloud solutions.
 - 📫 You can reach me at https://www.linkedin.com/in/praveenyadav18/
