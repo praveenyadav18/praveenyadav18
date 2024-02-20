@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praveenyadav18
-- 👀 I’m a DevOps enthusiast and interested to learn its solutions
-- 💞️ I’m looking to collaborate on AWS, Cloud solutions, etc
+- 👀 I’m a DevOps and Data Analyst enthusiast and interested to learn the solutions
+- 💞️ I’m looking to collaborate on AWS, Cloud solutions, Data Analyst etc
 
 <!---
 praveenyadav18/praveenyadav18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
